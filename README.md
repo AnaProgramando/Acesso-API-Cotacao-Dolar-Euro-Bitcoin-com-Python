@@ -147,7 +147,7 @@ Para transformar de JSON para Python digite na linha acima do "print": cotacoes 
 
 O resultado ficará assim agora:
 ```
-{'USDBRL': {'code': 'USD', 'codein': 'BRL', 'name': 'Dólar Americano/Real Brasileiro', 'high': '5.3239', 'low': '5.263', 'varBid': '0.0162', 'pctChange': '0.31', 'bid': '5.3098', 'ask': '5.3123', 'timestamp': '1629299404', 'create_date': '2021-08-18 12:10:08'}, 'EURBRL': {'code': 'EUR', 'codein': 'BRL', 'name': 'Euro/Real Brasileiro', 'high': '6.2333', 'low': '6.1663', 'varBid': '0.0198', 'pctChange': '0.32', 'bid': '6.2173', 'ask': '6.2218', 'timestamp': '1629299403', 'create_date': '2021-08-18 12:10:05'}, 'BTCBRL': {'code': 'BTC', 'codein': 'BRL', 'name': 'Bitcoin/Real Brasileiro', 'high': '174000', 'low': '163120', 'varBid': '5469.9', 'pctChange': '3.25', 'bid': '173947.2', 'ask': '173947.2', 'timestamp': '1624558019', 'create_date': '2021-06-24 15:07:00'}}
+{'USDBRL': {'code': 'USD', 'codein': 'BRL', 'name': 'Dólar Americano/Real Brasileiro', 'high': '5.3239', 'low': '5.263', 'varBid': '0.0162', 'pctChange': '0.31', 'bid': '5.3098', 'ask': '5.3123', 'timestamp': '1629299404'}, 'EURBRL': {'code': 'EUR', 'codein': 'BRL', 'name': 'Euro/Real Brasileiro', 'high': '6.2333', 'low': '6.1663', 'varBid': '0.0198', 'pctChange': '0.32', 'bid': '6.2173', 'ask': '6.2218', 'timestamp': '1629299403'}, 'BTCBRL': {'code': 'BTC', 'codein': 'BRL', 'name': 'Bitcoin/Real Brasileiro', 'high': '174000', 'low': '163120', 'varBid': '5469.9', 'pctChange': '3.25', 'bid': '173947.2', 'ask': '173947.2', 'timestamp': '1624558019'}}
 ```
 
 ## 🔎 Visualizar apenas uma cotação
@@ -156,7 +156,7 @@ O resultado ficará assim agora:
 2. Substitua o "print(cotacoes)" por: print(cotacao_bitcoin)
 O resultado será:
 ```
-{'code': 'BTC', 'codein': 'BRL', 'name': 'Bitcoin/Real Brasileiro', 'high': '174000', 'low': '163120', 'varBid': '5469.9', 'pctChange': '3.25', 'bid': '173947.2', 'ask': '173947.2', 'timestamp': '1624558019', 'create_date': '2021-06-24 15:06:59'}
+{'code': 'BTC', 'codein': 'BRL', 'name': 'Bitcoin/Real Brasileiro', 'high': '174000', 'low': '163120', 'varBid': '5469.9', 'pctChange': '3.25', 'bid': '173947.2', 'ask': '173947.2', 'timestamp': '1624558019'}
 ```
 
 3. Usando como base o resultado acima, para imprimir apenas o valor da contação adicione o "bid" dentro de aspas duplas e colchetes após o código que representa o Bitcoin, assim:
@@ -194,7 +194,7 @@ O resultado do código acima será:
      Cotação do Bitcoin/Real Brasileiro:  173947.2
     
      Cotações sem formatação: 
-     {'USDBRL': {'code': 'USD', 'codein': 'BRL', 'name': 'Dólar Americano/Real Brasileiro', 'high': '5.3239', 'low': '5.263', 'varBid': '0.0162', 'pctChange': '0.31', 'bid': '5.3098', 'ask': '5.3123', 'timestamp': '1629299404', 'create_date': '2021-08-18 12:10:08'}, 'EURBRL': {'code': 'EUR', 'codein': 'BRL', 'name': 'Euro/Real Brasileiro', 'high': '6.2333', 'low': '6.1663', 'varBid': '0.0198', 'pctChange': '0.32', 'bid': '6.2173', 'ask': '6.2218', 'timestamp': '1629299403', 'create_date': '2021-08-18 12:10:05'}, 'BTCBRL': {'code': 'BTC', 'codein': 'BRL', 'name': 'Bitcoin/Real Brasileiro', 'high': '174000', 'low': '163120', 'varBid': '5469.9', 'pctChange': '3.25', 'bid': '173947.2', 'ask': '173947.2', 'timestamp': '1624558019', 'create_date': '2021-06-24 15:07:00'}}
+     {'USDBRL': {'code': 'USD', 'codein': 'BRL', 'name': 'Dólar Americano/Real Brasileiro', 'high': '5.3239', 'low': '5.263', 'varBid': '0.0162', 'pctChange': '0.31', 'bid': '5.3098', 'ask': '5.3123', 'timestamp': '1629299404'}, 'EURBRL': {'code': 'EUR', 'codein': 'BRL', 'name': 'Euro/Real Brasileiro', 'high': '6.2333', 'low': '6.1663', 'varBid': '0.0198', 'pctChange': '0.32', 'bid': '6.2173', 'ask': '6.2218', 'timestamp': '1629299403'}, 'BTCBRL': {'code': 'BTC', 'codein': 'BRL', 'name': 'Bitcoin/Real Brasileiro', 'high': '174000', 'low': '163120', 'varBid': '5469.9', 'pctChange': '3.25', 'bid': '173947.2', 'ask': '173947.2', 'timestamp': '1624558019'}}
 
 
 ## ❓ Dúvidas
