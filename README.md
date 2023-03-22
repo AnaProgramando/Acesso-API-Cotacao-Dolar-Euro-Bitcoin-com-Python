@@ -1,0 +1,1 @@
+# Acesso-API-Cotacao-Dolar-Euro-Bitcoin-com-Python
