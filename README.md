@@ -20,7 +20,7 @@
  <a href="#-melhorando-o-c%C3%B3digo">Melhorando o código</a> | 
  <a href="#-d%C3%BAvidas">Dúvidas</a> | 
  <a href="#%EF%B8%8F-contatos">Contatos</a> |  
- <a href="#%EF%B8%8F-autora">Autora</a>
+ <a href="#%EF%B8%8F-desenvolvedora">Desenvolvedora</a>
 </p>
 
 # 🤗 Welcome
@@ -217,7 +217,7 @@ Se precisar de ajuda, entre em contato comigo 😉
 <br>
 
 
-## 🙋‍♀️ Autora
+## 🙋‍♀️ Desenvolvedora
 
 <div>
   <img align="left" alt="Ana Valentim" width="100px" src="https://avatars.githubusercontent.com/u/31097110?v=4"/>
