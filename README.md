@@ -44,7 +44,7 @@ Tive a ideia de compartilhar alguns projetos para quem tem interesse em aprender
 - [X] Uso de API de cotações de moedas
 - [X] Cotação do Dólar, Euro e Bitcoin com Python
 - [X] Link de requisição da API
-- [X] Obtenção de informações com API e mais!
+- [X] Obtenção de informações com API
 
 ## 🔧 Tecnologias e Ferramentas
 
